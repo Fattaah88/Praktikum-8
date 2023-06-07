@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7SL1HNPp/1i6gcZfrSdPTuy9Wj6NWjjsH69OfpW8Zn15rBkacc5Uh37EPY4E0ZN7fq1I3B+WJROrqegHrs88YA==",
+  "success": true,
+  "projectFilePath": "E:\\tata\\Pemrog\\Pertemuan 8\\Pertemuan 8\\Pertemuan 8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
